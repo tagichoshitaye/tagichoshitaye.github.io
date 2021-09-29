@@ -3,7 +3,15 @@
         <title>All Posts - Ahava</title>
         <link>https://tagichoshitaye.github.io/posts/</link>
         <description>All Posts | Ahava</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 17 Sep 2021 23:42:24 &#43;0300</lastBuildDate><atom:link href="https://tagichoshitaye.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Sep 2021 23:05:50 &#43;0300</lastBuildDate><atom:link href="https://tagichoshitaye.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Title</title>
+    <link>https://tagichoshitaye.github.io/posts/title/</link>
+    <pubDate>Wed, 29 Sep 2021 23:05:50 &#43;0300</pubDate><guid>https://tagichoshitaye.github.io/posts/title/</guid>
+    <description><![CDATA[Title paragraph
+bold italica strike through
+ list list 2   list 1 list 2  #!/usr/bin/python import sys print(&#34;Hello, World&#34;) ]]></description>
+</item>
+<item>
     <title>First post</title>
     <link>https://tagichoshitaye.github.io/posts/first_post/</link>
     <pubDate>Fri, 17 Sep 2021 23:42:24 &#43;0300</pubDate><guid>https://tagichoshitaye.github.io/posts/first_post/</guid>
